@@ -1,6 +1,8 @@
-# **Lista di comandi del terminale di Windows**
-dir
+# **Lista di comandi del terminale di Windows e Linux**
+- **dir/ls** : permette di visualizzare il contenuto del percorso corrente oppure di una cartella visualizzata nel percorso corrente
 
-del
+- **del** : permette di eliminare un documento specificato
 
-mkdir
+- **mkdir** : permette di creare una cartella nel percorso corrente
+
+fatto da Scanzi Filippo
